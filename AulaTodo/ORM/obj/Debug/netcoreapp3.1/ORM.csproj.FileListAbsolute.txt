@@ -1,0 +1,12 @@
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.csprojAssemblyReference.cache
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfoInputs.cache
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfo.cs
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\bin\Debug\netcoreapp3.1\ORM.deps.json
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\bin\Debug\netcoreapp3.1\ORM.dll
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\bin\Debug\netcoreapp3.1\ORM.pdb
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CoreCompileInputs.cache
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CopyComplete
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.dll
+D:\Estudos\.Net\Dapper\dotnet-Dapper\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.pdb
